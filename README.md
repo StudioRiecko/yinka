@@ -1,1 +1,3 @@
-# yinka
+# yinka shop
+
+development reposirtory of YinkaShop
