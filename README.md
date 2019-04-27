@@ -1,3 +1,3 @@
 # yinka shop
 
-development reposirtory of YinkaShop
+development repository of YinkaShop
